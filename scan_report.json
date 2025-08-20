@@ -1,0 +1,5 @@
+{
+  "https://yourbucket.s3.amazonaws.com/": "Access Denied (Private)",
+  "https://examplestorage.blob.core.windows.net/containername": "Error: <urllib3.connection.HTTPSConnection object at 0x000001D93B953DA0>: Failed to resolve 'examplestorage.blob.core.windows.net' ([Errno 11001] getaddrinfo failed)",
+  "https://noaa-goes16.s3.amazonaws.com/": "Public List Access"
+}

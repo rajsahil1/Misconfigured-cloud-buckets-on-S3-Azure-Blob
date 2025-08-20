@@ -1,0 +1,3 @@
+https://noaa-goes16.s3.amazonaws.com/
+https://wasbweb.blob.core.windows.net/public
+http://s3.amazonaws.com/earthquake.usgs.gov
